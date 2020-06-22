@@ -1,2 +1,2 @@
-# gostack-07.conceitos_typescript
+# TypeScript
 Conhecendo os conceitos de TypeScript e aplicando nos projetos já desenvolvidos
